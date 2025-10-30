@@ -15,8 +15,7 @@ public class HomeComponent extends JComponent {
 	}
 	
 	public void background(Graphics2D graphics2) {
-		Color og = graphics2.getBackground();
 		graphics2.setColor(new Color(237,201,175));
-		//graphics2.setColor(og);
+		graphics2.fillRect(0,0,500,500);
 	}
 }
