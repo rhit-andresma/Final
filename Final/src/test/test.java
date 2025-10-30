@@ -2,6 +2,8 @@ package test;
 
 import javax.swing.SwingUtilities;
 
+import ballapp.GameApp;
+
 //what is going on
 public class test {
     //I have no idea. Does this work?
@@ -11,7 +13,7 @@ public class test {
 	//5th test
 public static void main(String[] args) {
 		
-		System.out.println("nothing");
+		
 
 	}
 	
